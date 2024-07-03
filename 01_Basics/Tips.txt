@@ -1,0 +1,17 @@
+in first Javascript is a Browser Language but  in now days js is a Use in Multidomains like backend , moblile application.
+ 
+--> Nodejs is environment of JavaScript.
+--> denojs is also environment of Javascript.
+----------------------------------------------------------------------------------------------------------
+
+--> console.table([column1 , column2 , column3])
+    print data in tabular Format so no requirment of write multiple console.log()
+
+----------------------------------------------------------------------------------------------------------
+--> const is use for Store Constant Value.
+
+--> let is modern appoch to use variable declaration.
+
+--> if variable is declare but value  is not define than by Default it is undefined.
+
+----------------------------------------------------------------------------------------------------------
