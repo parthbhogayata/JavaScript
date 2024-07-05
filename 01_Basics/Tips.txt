@@ -32,3 +32,18 @@ in first Javascript is a Browser Language but  in now days js is a Use in Multid
 
     null
 ----------------------------------------------------------------------------------------------------------
+
+Converstion :-
+
+                // "33" => 33
+                // "33abc" => NaN (Not a Number) but type of NaN is number
+                // true => 1; false => 0;
+                // null => 0
+                // undefined => NaN
+
+                    //Boolean Convertion
+
+                    // 1 to n => true
+                    // 0 => flase
+                    // "" [empty string] => false
+                    // "parth" or " " => true
