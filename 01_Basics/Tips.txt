@@ -2,6 +2,7 @@ in first Javascript is a Browser Language but  in now days js is a Use in Multid
  
 --> Nodejs is environment of JavaScript.
 --> denojs is also environment of Javascript.
+--> JavaScript is Dynamicaly type Language.
 ----------------------------------------------------------------------------------------------------------
 
 --> console.table([column1 , column2 , column3])
@@ -30,7 +31,7 @@ in first Javascript is a Browser Language but  in now days js is a Use in Multid
 
 2] -> Object
 
-    null
+    null , Arrays , Functions , Objects
 ----------------------------------------------------------------------------------------------------------
 
 Converstion :-
